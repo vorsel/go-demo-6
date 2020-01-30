@@ -65,4 +65,3 @@ unittest:
 	test --run UnitTest -v
 
 VERSION := 2.0.0
-VERSION := 2.0.0
